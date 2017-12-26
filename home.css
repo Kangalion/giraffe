@@ -1,0 +1,143 @@
+body {
+    background-color: HoneyDew !important;
+
+}
+
+.right{
+    text-align: right;
+}
+
+
+
+.lobster{
+    font-family: 'Berkshire Swash';
+    color: red;
+    font-size: 50px;
+}
+
+.apple{
+    font-family: 'Frijole';
+    color: blue;
+}
+
+.hipo{
+    font-family: IM Fell English SC;
+    font-size: 50px;
+    color: SpringGreen;
+}
+
+.rip{
+    font-family: 'Press Start 2P';
+    color: DarkOrange;
+    font-size: 40px;
+}
+.aight {
+    font-family: 'Bungee Shade';
+    font-size: 50px;
+    color: Gold;
+}
+
+.lavender-background {
+    text-align: center;
+    
+    
+    width: 1360px auto;
+    height: 200px auto;
+
+}
+
+.box {
+    border-style: solid;
+    border-color: Navy;
+    border-width: 4px;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.center {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.orange-box {
+    border-style: dashed;
+    border-width: 30px;
+    padding: 50px;
+
+}
+
+iframe {
+    background-color: Silver;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-right-style: dotted;
+    border-color: Indigo;
+    border-left-style: dotted;
+    border-right-width: 20px;
+    border-left-width: 20px;
+}
+.top-img {
+
+    margin-bottom: : -140px;
+    width: 1360px auto;
+    height: 120px auto;
+
+}
+.img-size{
+    background-image: Top-img.png;
+    
+}
+#welcome {
+    font-family: IM Fell English SC;
+    font-size: 60px;
+    text-transform: uppercase;
+    color: Snow !important;
+    margin-top: -70px;
+    margin-bottom: -100px
+}
+#margin-up{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.contain{
+    width: 1360px auto;
+    height: 200px auto;
+}
+.one {
+	background-color: SteelBlue;
+} 
+p{
+	font-family: Rye;
+	font-size: 20px;
+	color: Crimson;
+}
+.contains{
+	width:0 auto;
+	height: 50px
+	padding-bottom:10px;
+
+}
+.e{
+	float: left;
+
+}
+.a{
+	display: inline-block;
+}
+.yup{
+	height: 200px;
+	width: 350px;
+	
+	
+	border: 1px solid red;
+	background-color: Gold;
+	
+}
+.erick {
+    background-color: transparent;
+}
+@media only screen and (max-width: 300px) {
+     .prev, .next, .text {font-size: 11px}
